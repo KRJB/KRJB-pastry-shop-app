@@ -1,0 +1,13 @@
+/* style body */
+
+.gallery {
+display: flex;
+align-items: center;
+justify-content: center;
+flex-wrap: wrap;
+margin-top: 20px;
+}
+.gallery img{
+    max-height: 400px;
+    padding: 10px;
+}

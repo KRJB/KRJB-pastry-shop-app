@@ -1,0 +1,44 @@
+.home{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 20px 0;
+    background: url(../Icons/gal6.jpg);
+}
+#img1{
+width: 100%;
+height: auto;
+
+}
+.home h2{
+    color: white;
+    font-weight: 400;
+    font-size: 50px;
+    margin: 100px 0;
+    padding: 20px;    
+}
+.div2{
+    margin: 100px 0 160px 0;
+    text-align: center;
+  
+}
+.div2 h2{
+    color: #9e9a7c;
+    font-weight: 400;
+    font-size: 40px;
+    padding-top: 10px;
+}
+.div3{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 60px 0;
+}
+.div3-col{
+    text-align: center;
+    background-color: #9e9a7c;
+    padding: 20px 60px 60px 60px;
+    width: 320px;
+    color: white;
+    border-radius: 20px;
+}
